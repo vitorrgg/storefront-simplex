@@ -5,7 +5,7 @@
   "short_name": "My Shop",
   "description": "My PWA Shop",
   "primary_color": "#D9230F",
-  "secondary_color": "##27292b",
+  "secondary_color": "#27292b",
   "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "simplex"
